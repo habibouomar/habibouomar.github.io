@@ -4,9 +4,13 @@
 }
 
 *{
-   margin: 0;
-
+   margin: 0; 
  }
+ 
+ ::-webkit-scrollbar {
+    display: none;
+    }
+
  .profil{
 
      background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(2,26,80,1) 100%);
