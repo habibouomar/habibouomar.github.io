@@ -5,6 +5,7 @@
 
 *{
    margin: 0; 
+   scrollbar-width: none;
  }
  
  ::-webkit-scrollbar {
@@ -90,6 +91,7 @@
      padding: 1em 0em;
      color: rgb(14, 13, 13);
      height: 100vh;
+     margin-bottom: 0;
  }
 
  
